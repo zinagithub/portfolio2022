@@ -1,0 +1,50 @@
+https://github.com/puppeteer/puppeteer
+https://www.tabnine.com/code/javascript/functions/puppeteer/Page/click
+https://www.youtube.com/watch?v=6IOrp8HgnJU Automated Form Submissions with Chrome Puppeteer & NodeJS
+https://www.youtube.com/watch?v=WnMQ8HlmeXc UML Diagrams Full Course (Unified Modeling Language)
+https://www.youtube.com/watch?v=D_Uyc2QdljA( Crash Course ) Callback, Promises, Async Await شرح مبسط
+https://materializecss.com/text-inputs.html
+https://v4.mui.com/fr/getting-started/supported-components/
+https://www.youtube.com/watch?v=jD7FnbI76Hg Realtime Chat With Users & Rooms - Socket.io, Node & Express
+https://www.youtube.com/watch?v=QDGe4emCPG0تعلم تصميم واجهات المواقع والتطبيقات بواسطة رياكت في فيديو واحد
+https://www.youtube.com/channel/UC8za_4gBA3P_J9dmw-dFIZw/videos Asrar Al Quran  أسرار القرآن    
+https://phoenixnap.com/kb/update-node-js-version How to Update Node.js to Latest Version {Linux, Windows, and macOS}
+https://www.tremplin-numerique.org/quest-ce-quun-fichier-gitignore-et-comment-le-configurer Qu’est-ce qu’un fichier .gitignore et comment le configurer ? –
+https://stackabuse.com/git-undo-latest-local-commit/ Git: Undo Latest Local Commit
+https://stackabuse.com/git-guide-to-solving-merge-conflicts/
+https://whatcms.org/?s=www.freecodecamp.org What CMS Is This Site Using?
+https://www.youtube.com/watch?v=or1ZueBNO6M&list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi&index=18 16 - دورة كاملة باستخدام Node.js and MongoDB (مقدمة عن passportjs وخطة login/register)
+Abdulaziz Alzaabi
+
+https://loremipsum.io/fr/21-of-the-best-placeholder-image-generators/  Une image vaut mille mots, alors voici 21K de générateurs d'image substituables à utiliser dans vos maquettes et dessins.
+
+Marwen Hannechi
+https://www.youtube.com/channel/UCq8BBR04B3HshgnpQgPZfBQ Canvas - Animations 1- Example
+
+https://circleci.com/blog/SQL-vs-NoSQL-databases/
+https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/introduction-to-mongodb
+
+https://www.youtube.com/results?search_query=how+to+create+a+map+with+html+css+js
+
+https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/?fbclid=IwAR2K-RMi6ZpiSnr3WSJyyfIXp-x-LJbQXj5hyW-V_jh6aISpV-WqAteLpuU#%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%D8%9F
+
+https://courses.kevinpowell.co/
+
+https://www.websitebuilderexpert.com/building-websites/how-to-secure-a-website/
+
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+IRG 2022 https://trusting-hopper-402e94.netlify.app
+
+https://www.youtube.com/watch?v=4UZrsTqkcW4 Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks
+
+https://threejs.org/docs/index.html#manual/en/introduction/Installation
+
+https://www.youtube.com/watch?v=URV447zdgCc Web scraping with Javascript using Puppeteer and Node.js
+
+
+https://www.youtube.com/watch?v=enfZAaTRTKU How to Extract Text from a PDF Document Using JavaScript & Express.js
+
+https://www.youtube.com/watch?v=lgyszZhAZOI Web Scraping with Puppeteer & Node.js: Chrome Automation
+
+https://www.youtube.com/watch?v=IvaJ5n5xFqU Web Scraping with Puppeteer, NodeJS & Shopify
